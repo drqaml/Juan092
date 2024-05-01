@@ -13,6 +13,6 @@
 [![](https://visitcount.itsvg.in/api?id=drqaml&icon=9&color=10)](https://visitcount.itsvg.in)
 
 ---
-[![wakatime](https://wakatime.com/badge/user/b7e7b66e-19d4-4555-a79f-d7b733112787/project/018edf81-7184-4cc1-b040-00304f5588d6.svg)](https://wakatime.com/badge/user/b7e7b66e-19d4-4555-a79f-d7b733112787/project/018edf81-7184-4cc1-b040-00304f5588d6)
+[![Realidad-Sonora](https://wakatime.com/badge/user/b7e7b66e-19d4-4555-a79f-d7b733112787/project/018edf81-7184-4cc1-b040-00304f5588d6.svg)](https://wakatime.com/badge/user/b7e7b66e-19d4-4555-a79f-d7b733112787/project/018edf81-7184-4cc1-b040-00304f5588d6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
